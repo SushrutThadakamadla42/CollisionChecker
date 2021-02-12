@@ -1,0 +1,2 @@
+# CollisionChecker
+Checks for collision
